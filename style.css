@@ -1,0 +1,52 @@
+.mainpage{
+  margin: 0;
+  background: url("forest.jpg") no-repeat fixed;
+  background-size: 100%;
+  background-position: center;
+}
+.mainpage-bodytext{
+  font-family: 'Kalam';
+  font-size: 20px;
+  background-color: #3a4a6e;
+  color: #8897c3;
+  text-shadow: 2px 2px #253046;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  border-radius: 10px;
+}
+.title{
+  font-family: 'Kalam';
+  font-size: 40px;
+  text-align:center;
+  color: #28549a;
+  text-shadow: 2px 1px  #0f274d;
+}
+.abt-me-page{
+  background:url("https://pbs.twimg.com/media/EcyyPCrUwAoP9bV.jpg:large") no-repeat center fixed;
+
+}
+
+.abtme-page-txt{
+   font-family: 'Kalam';
+  font-size: 40px;
+  background-color:#1a601a; 
+  color:#dbffdb;
+  border-radius: 10px;
+  text-align: center;
+  letter-spacing:5px;
+  margin: auto;
+  width:fit-content;
+}
+.opening-aboutme{
+  background-color: #5e9c5e;
+  text-shadow: 2px 2px #3f693f;
+  font-family: 'Kalam';
+  font-size: 25px;
+  color: #000000;
+  opacity: 0.6;
+  border-radius: 10px;
+  width: 50%;
+  display: flex;
+  justify-content: right;
+}
