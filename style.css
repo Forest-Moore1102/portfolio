@@ -23,7 +23,7 @@
   text-shadow: 2px 1px  #0f274d;
 }
 .abt-me-page{
-  background:url("https://pbs.twimg.com/media/EcyyPCrUwAoP9bV.jpg:large") no-repeat center fixed;
+  background:url("BACKGROUND2.jpg") no-repeat center fixed;
 
 }
 
@@ -38,6 +38,7 @@
   margin: auto;
   width:fit-content;
 }
+
 .opening-aboutme{
   background-color: #5e9c5e;
   text-shadow: 2px 2px #3f693f;
@@ -49,4 +50,7 @@
   width: 50%;
   display: flex;
   justify-content: right;
+}
+.hidden-txts{
+  display:none;
 }
