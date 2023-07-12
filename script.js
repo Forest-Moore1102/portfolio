@@ -3,7 +3,7 @@ let mainPage = document.querySelector(".mainpage");
 let aboutMePage = document.querySelector(".abt-me-page");
 
 house.onclick = function () {
-   location.href = "aboutmepage.html";
+   location.href = "about-me.html";
 }
 let trophycaseButton = document.querySelector(".trophycase");
 trophycaseButton.onclick = function () {
@@ -30,21 +30,21 @@ let abtMe4= document.querySelector(".abt-me-4");
 let abtMe5= document.querySelector(".abt-me-5");
 
 nextButton1.onclick= function(){
-   abtMe2.style.display= "block";
+   abtMe2.style.display= "flex";
    abtMe1.style.display= "none";
 }
 nextButton2.onclick= function(){
-   abtMe3.style.display= "block";
+   abtMe3.style.display= "flex";
    abtMe2.style.display= "none";
 }
 nextButton3.onclick= function(){
-   abtMe4.style.display= "block";
+   abtMe4.style.display= "flex";
    abtMe3.style.display= "none";
 }
 nextButton4.onclick= function(){
-   abtMe4.style.display= "block";
+   abtMe4.style.display= "flex";
    abtMe3.style.display= "none";
 }
 nextButton5.onclick= function(){
-   location.href = "about-me.HTML";
+   location.href = "index.html";
 }

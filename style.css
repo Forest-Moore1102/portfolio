@@ -24,7 +24,6 @@
 }
 .abt-me-page{
   background:url("BACKGROUND2.jpg") no-repeat center fixed;
-
 }
 
 .abtme-page-txt{
@@ -53,4 +52,133 @@
 }
 .hidden-txts{
   display:none;
+}
+.background{
+  z-index: -10;
+}
+.abt-me-1{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 25px;
+  text-align: center;
+  width : 50%;
+  border-radius: 10px;
+  background-color: #3a4a6e;
+  color: #8897c3;
+}
+.abt-me-2{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 25px;
+  text-align: center;
+  width : 50%;
+  border-radius: 10px;
+  background-color: #3a4a6e;
+  color: #8897c3;
+}
+.abt-me-3{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 25px;
+  text-align: center;
+  width : 50%;
+  border-radius: 10px;
+  background-color: #3a4a6e;
+  color: #8897c3;
+}
+.abt-me-4{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 25px;
+  text-align: center;
+  width : 50%;
+  border-radius: 10px;
+  background-color: #3a4a6e;
+  color: #8897c3;
+}
+.abt-me-5{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 25px;
+  text-align: center;
+  width : 50%;
+  border-radius: 10px;
+  background-color: #3a4a6e;
+  color: #8897c3;
+}
+
+.nxt-button-1{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 20px;
+  text-align: center;
+  width : 25%;
+  border-radius: 10px;
+  background-color: #63a758;
+  color: #2b4327;
+}
+.nxt-button-2{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 20px;
+  text-align: center;
+  width : 25%;
+  border-radius: 10px;
+  background-color: #63a758;
+  color: #2b4327;
+}
+.nxt-button-3{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 20px;
+  text-align: center;
+  width : 25%;
+  border-radius: 10px;
+  background-color: #63a758;
+  color: #2b4327;
+}
+.nxt-button-4{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 20px;
+  text-align: center;
+  width : 25%;
+  border-radius: 10px;
+  background-color: #63a758;
+  color: #2b4327;
+}
+.nxt-button-5{
+  display: flex;
+  justify-content: right;
+  font-family: "Kalam";
+  font-size: 20px;
+  text-align: center;
+  width : 25%;
+  border-radius: 10px;
+  background-color: #63a758;
+  color: #2b4327;
+}
+.hobbies-page{
+  background: url('pinboard1.png') no-repeat center fixed;
+  background-size: contain;
+}
+.hobbies-title{
+  display: flex;
+  justify-content: center;
+  font-family: "Kalam";
+  font-size: 25px;
+  text-align: center;
+  width : 75%;
+  border-radius: 10px;
+  background-color: #63a758;
+  color: #2b4327;
 }
